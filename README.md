@@ -44,7 +44,7 @@ Follow these steps to set up the project locally.
 1.  **Clone the repository:**
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/bala-rajesh/Job-Portal-using-Spring-Boot
     cd <project_directory>
     ```
 
@@ -145,9 +145,7 @@ Follow these steps to set up the project locally.
 ├── 📄 README.md
 ```
 
-## 📸 Screenshots
 
-*(Add screenshots of the application here to showcase its features and UI)*
 
 ## 🤝 Contributing
 
@@ -165,11 +163,11 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📬 Contact
 
-If you have any questions or suggestions, feel free to contact me at [your_email@example.com](mailto:your_email@example.com).
+If you have any questions or suggestions, feel free to contact me at [kunapareddybalarajesh@gmail.com](mailto:kunapareddybalarajesh@gmail.com).
 
 ## 💖 Thanks Message
 
 Thank you for checking out this project! I hope it's helpful and that you find it interesting. Your feedback and contributions are highly appreciated.
 
-This is written by [readme.ai](https://readme-generator-phi.vercel.app/), your go-to README generator.
+
 
